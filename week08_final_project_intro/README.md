@@ -38,7 +38,7 @@ You may notice that the final project is much more open than the CodeCamp
 project, which essentially only lists the requirements, while all the design
 and implementation details are left for you to decide. This is not by accident, 
 as **the only way to actually learn how to develop tools/packages to solve 
-realistic engineering problems is to actually do it from scrach by yourselves**.
+realistic engineering problems is to actually do it from scratch by yourselves**.
 
 You should also note that this course focuses on the programming aspect, not on
 the actual models or physics. Thus, while you need to understand the background
@@ -58,19 +58,21 @@ with a plan quickly.
 To help your planning, below is a suggested development plan that you should 
 consider:
 * **Week 8 and 9**: Understand the project (background, requirements and necessary
-steps/models/equations), explore the provided data (load, parse, visulization),
-and consider the prelimiary design of the architecutre of your package.
+steps/models/equations), explore the provided data (load, parse, and visualize),
+and consider the preliminary design of the architecture of your package.
 
 * **Week 10**: Implement and refine different parts of the package (including
 tests).
 
-* **Week 11**: Present your architecutre and preliminary results in class, 
-finalize the architecutre and polish the code (including tests).
+* **Week 11**: Present your architecture and preliminary results in class, 
+finalize the architecture and polish the code (including tests).
 
-* **Week 12**: Refine the documentation, experiement on different computers (
+* **Week 12**: Refine the documentation, experiment on different computers (
    install the package, run the main script, check the test coverage, pylint
    score), fix all potential issues.
 
+**Note that the notes provided in this repo can be quite relevant and important
+for some tasks in the final projects: [notes_and_tips](../notes_and_tips).**
 
 ## Formal Requirements to pass
 1. Your final project should have the structure and required files as shown in 
