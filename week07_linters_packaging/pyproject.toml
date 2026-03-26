@@ -9,7 +9,7 @@ build-backend = "hatchling.build"
 
 # Information on the package. Update as needed.
 [project]
-name = "examplepackage"  # name of subfolder inside src/
+name = "codecamp"  # name of subfolder inside src/
 description = "An example package"
 version = "0.0.1"
 authors = [
@@ -18,6 +18,7 @@ authors = [
 dependencies = [  # installed before your package
     "matplotlib",
     "numpy"
+    "scipy"
 ]
 
 # (optional) Extra dependencies, e.g., for developers or power users. Update as needed.
