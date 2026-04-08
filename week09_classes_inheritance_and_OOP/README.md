@@ -75,10 +75,10 @@ speed [m/s] and second column defines power [kW].
     Overide the `get_power(v)` function using the power curve data based on interpolation (e.g., using `numpy.interp`).
 
 3. Initialize two objects of the two classes using the data of LEANWIND_8MW_164_RWT, which can be access at:
-https://nrel.github.io/turbine-models/LEANWIND_8MW_164_RWT.html 
+https://natlabrockies.github.io/turbine-models/LEANWIND_8MW_164_RWT.html
 
     Its power curve data can be obtained at:
-https://github.com/NREL/turbine-models/blob/main/turbine_models/data/Offshore/LEANWIND_Reference_8MW_164.csv
+https://github.com/NatLabRockies/turbine-models/blob/main/turbine_models/data/Offshore/LEANWIND_Reference_8MW_164.csv
 
 4. Plot out and compare the power curves of these wind turbine objects and see 
 how different they are.
