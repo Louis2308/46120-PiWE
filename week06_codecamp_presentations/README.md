@@ -8,6 +8,16 @@ Recording from lecture:
 
 ## CodeCamp final project
 
+<<<<<<< HEAD
+Draft information on project requirements is in this folder.
+Peer-grading rubric and schedule coming soon.
+
+Details TBD.
+
+Rounds for Round Robin:  
+* To be added
+
+=======
 Information on project requirements and evaluation rubric is in PDF in this folder.
 
 ## Peer evaluation
@@ -24,6 +34,22 @@ Information on project requirements and evaluation rubric is in PDF in this fold
 * Once feedback is assembled, submit using evaluation link on Learn.
     * **!!IMPORTANT!!!**  Check “send me an email receipt of my responses” before submission and click “Save my response to edit” after submission in case you made a mistake. 
 
+<<<<<<< HEAD
+|   | Team 1 | Team 2 | Team 3 | Team 4|
+|----|---|---|---|---|
+| SET A |  perolacon | SSD | Genwel | Ciao_Polonia |
+| SET B |  group-38 (Aron/Adrian) | What a Tim (team) | Fasigi | Krisak |
+| SET C |  romaal | PremiumGPT | FreGuLa | OCRF |
+| SET D |  PJ | MaiTi | CampRock-Girls | MaCrIn |
+| SET E |  Group10 | Greenland | Group 26 Robert Louis | hood |
+| SET F |  Jarla | T9 | JNS | Group40 |
+| SET G |  Group 19 | Group 6 | Prompt Engineers | Worcestershire |
+| SET H |  PiWE Cool kids | OmPaDa | ErScPt | Haflo Group47 |
+| SET I |  PARS | VLP_CodeChamp | Curry Gang | MMC |
+| SET J |  VaGeCh | CWBCMB | Group 4 | EMMUS |
+| SET K |  Anjaca | CKMVSD | Diciassette | group_38 (Ignacio/Mikail/Carlos)  |
+>>>>>>> c5bc084c4a4fd0c6edf089fb3cf4b16ad18e9f14
+=======
 |   | Team 1 | Team 2 | Team 3 | Team 4| BOR | Physical Room |
 |----|---|---|---|---|---|---|
 | SET A |  perolacon | SSD | Genwel | Ciao_Polonia | 1 | 002 |
@@ -37,6 +63,7 @@ Information on project requirements and evaluation rubric is in PDF in this fold
 | SET I |  PARS | VLP_CodeChamp | Curry Gang | MMC | 9 | 001 |
 | SET J |  VaGeCh | CWBCMB | Group 4 | EMMUS | 10 | 001 |
 | SET K |  Anjaca | CKMVSD | Diciassette | group_38 (Ignacio/Mikail/Carlos)  | 11 | 001 |
+>>>>>>> 2766db82790f876b4e6537ba3662ea1c56b9fab2
 
 ## Homework before next week (Week 7)
 
